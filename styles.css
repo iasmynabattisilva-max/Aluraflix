@@ -54,4 +54,9 @@ categoria-videos {
 
 .categoria-videos img {
     opacity: 0.5;
+    height: 200;
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
 }
